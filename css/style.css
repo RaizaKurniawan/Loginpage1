@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url();
+    background: url('bg.jpg');
     background: cover;
     background-position: absolute;
     font-family: 'Times New Roman', Times, serif;
